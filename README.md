@@ -1,4 +1,4 @@
-# Portafolio de Proyectos Académicos y de Cursos
+# Portafolio de Proyectos Académicos
 
 Este repositorio contiene todos los proyectos desarrollados durante mi trayectoria académica y en diversos cursos. Cada proyecto refleja habilidades de resolución de problemas, técnicas de programación y conocimientos en dominios específicos.
 
