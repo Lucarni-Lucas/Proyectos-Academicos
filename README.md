@@ -4,7 +4,8 @@ Este repositorio contiene todos los proyectos desarrollados durante mi trayector
 
 ## Proyectos
 
-1. [Comedor UNQ](https://github.com/Lucarni-Lucas/Proyectos-Academicos/tree/main/Proyeto1-ComedorUNQ)
+1. [Comedor UNQ](https://github.com/Lucarni-Lucas/Proyectos-Academicos/tree/main/Proyecto1-Smalltalk)
+2. [Vinchucas](https://github.com/Lucarni-Lucas/Proyectos-Academicos/tree/main/Proyecto2-Java)
 
 Cada proyecto tiene su propia carpeta, que incluye el código, la documentación y cualquier material relevante.
 
